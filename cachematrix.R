@@ -76,7 +76,7 @@ cacheSolve <- function(x, ...) {
 # retrieved from the cache.
 # 
 # myMatrix$getinverse()
-# Now, insted of "NULL", the inverse of the matrix is returned, since it has
+# Now, instead of "NULL", the inverse of the matrix is returned, since it has
 # been calculated.
 #
 # Thank you again!!! :)
